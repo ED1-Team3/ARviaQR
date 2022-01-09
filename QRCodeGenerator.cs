@@ -6,6 +6,8 @@ using ZXing.QrCode;
 using UnityEngine.UI;
 using TMPro;
 
+//This is a test
+
 public class QRCodeGenerator : MonoBehaviour
 {
     [SerializeField]

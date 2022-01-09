@@ -15,3 +15,5 @@ public class InputField : MonoBehaviour
         textDisplay.GetComponent<Text>().text =  getText;
     }
 }
+
+//This is a test 
